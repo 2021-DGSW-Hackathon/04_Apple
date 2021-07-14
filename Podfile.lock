@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (5.4.3)
+  - AlamofireNetworkActivityLogger (3.4.0):
+    - Alamofire (~> 5.4.0)
+  - Differentiator (4.0.1)
+  - GoogleMaps (5.1.0):
+    - GoogleMaps/Maps (= 5.1.0)
+  - GoogleMaps/Base (5.1.0)
+  - GoogleMaps/Maps (5.1.0):
+    - GoogleMaps/Base
+  - Kingfisher (6.3.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.2)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - AlamofireNetworkActivityLogger (~> 3.0)
+  - GoogleMaps (= 5.1.0)
+  - Kingfisher (~> 6.0)
+  - Moya/RxSwift
+  - RxCocoa
+  - RxDataSources (~> 4.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireNetworkActivityLogger
+    - Differentiator
+    - GoogleMaps
+    - Kingfisher
+    - Moya
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  AlamofireNetworkActivityLogger: 162ab8aee00e6267a4304d7cc134e13ccfe3bcc5
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  GoogleMaps: 086ae1dab659eaa7339bdb30fc88e2f44e7c597c
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 1e2e1f9570186967f617e49128ed26ccf1bafc8e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 3aa1d68596f446873c8756e62b976ab3c92f3971
+
+COCOAPODS: 1.10.1
